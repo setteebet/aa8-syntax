@@ -1,18 +1,18 @@
 {
   "name": "aa8-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "หวยlotto✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"หวยlotto",
-"เว็บแทงหวยหุ้นออนไลน์",
-"lottovip บาทละ95",
-"หวยแทง24",
-"lottovip ปิดปรับปรุง"
-],
+  "version": "0.2.0",
+  "description": "หวยlotto✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "หวยlotto",
+    "เว็บแทงหวยหุ้นออนไลน์",
+    "lottovip บาทละ95",
+    "หวยแทง24",
+    "lottovip ปิดปรับปรุง"
+  ],
   "repository": "https://github.com/setteebet/aa8-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
